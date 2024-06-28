@@ -3,5 +3,5 @@ langchain
 yaspin
 openai
 tree_sitter
-litellm==0.1.213
+litellm==1.40.29
 pydantic==1.10.8
